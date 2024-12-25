@@ -1,2 +1,3 @@
-/data/*
+/data/ncvoter_Statewide.txt
+/data/*.zip
 __pycache__/
